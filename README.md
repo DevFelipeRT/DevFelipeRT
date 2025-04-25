@@ -34,18 +34,18 @@ Minha trajetória profissional inclui passagens como **professor de inglês** e 
 ### [Gestão de Corretores Imobiliários](https://realtor.devfelipert.com.br/)  
 Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades incluem:
 
-- Autenticação de usuários com controle de sessões
 - Painel administrativo com CRUD completo
 - Navegação protegida por rotas e `.htaccess`
 - Integração entre camadas com organização orientada a objetos
+- Integração entre backend PHP e frontend com JavaScript
 
 ### Sistema de Orçamentos *(em desenvolvimento)*  
-Aplicação para geração e gerenciamento de orçamentos de produtos e serviços:
+Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, com foco em flexibilidade de composição e clareza de apresentação dos dados.
 
-- Estrutura baseada em entidades: Orçamento, Itens e Tipos
-- Cálculo dinâmico de totais, descontos e taxas
-- Integração entre backend PHP e frontend com JavaScript
-- Armazenamento e manipulação em banco de dados relacional
+- Estrutura fundamentada em entidades como **Orçamento**, **Item** e **Tipo**, permitindo categorização e controle detalhado de produtos e serviços
+- **Cálculo automatizado** de totais, aplicação de descontos, taxas adicionais e diferentes tipos de cobrança
+- **Persistência e manipulação de dados** em banco de dados relacional, com consultas otimizadas e integridade referencial
+- Funcionalidade para **exportação de orçamentos** em múltiplos formatos de arquivo, facilitando o compartilhamento e arquivamento de propostas comerciais
 
 ---
 
