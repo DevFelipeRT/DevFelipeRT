@@ -96,15 +96,9 @@ Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, 
 
 ## GitHub Insights
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="Estatísticas GitHub" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</p>
 
 ---
