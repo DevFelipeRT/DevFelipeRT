@@ -62,17 +62,32 @@ Aplicação para geração e gerenciamento de orçamentos de produtos e serviço
 
 ## Contato
 
-| Plataforma   | Link                                                                 |
-|--------------|----------------------------------------------------------------------|
-| LinkedIn     | [Felipe Ruiz Terrazas](https://www.linkedin.com/in/felipe-ruiz-terrazas) |
-| E-mail       | feliperterrazas@gmail.com                                            |
-| Portfólio    | Em desenvolvimento                                                   |
+<div align="center">
+  <table border="0">
+    <tr>
+      <th style="text-align: left; padding-right: 20px;">Plataforma</th>
+      <th style="text-align: left;">Link</th>
+    </tr>
+    <tr>
+      <td>LinkedIn</td>
+      <td><a href="https://www.linkedin.com/in/felipe-ruiz-terrazas" target="_blank">Felipe Ruiz Terrazas</a></td>
+    </tr>
+    <tr>
+      <td>E-mail</td>
+      <td>feliperterrazas@gmail.com</td>
+    </tr>
+    <tr>
+      <td>Portfólio</td>
+      <td>Em desenvolvimento</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## GitHub Insights
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="Estatísticas GitHub" />
