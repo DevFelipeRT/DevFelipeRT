@@ -31,7 +31,7 @@ Minha trajetória profissional inclui passagens como **professor de inglês** e 
 
 ## Projetos em Destaque
 
-### Gestão de Corretores Imobiliários  
+### [Gestão de Corretores Imobiliários](https://realtor.devfelipert.com.br/)  
 Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades incluem:
 
 - Autenticação de usuários com controle de sessões
@@ -39,7 +39,7 @@ Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades inclu
 - Navegação protegida por rotas e `.htaccess`
 - Integração entre camadas com organização orientada a objetos
 
-### Sistema de Orçamentos  
+### Sistema de Orçamentos *(em desenvolvimento)*  
 Aplicação para geração e gerenciamento de orçamentos de produtos e serviços:
 
 - Estrutura baseada em entidades: Orçamento, Itens e Tipos
