@@ -1,91 +1,81 @@
-<h1 align="center" style="font-weight: bold; font-size: 2.5rem;">Felipe Ruiz Terrazas</h1>
-<h2 align="center" style="font-weight: normal; font-size: 1.25rem; margin-top: -10px;">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS · APIs RESTful</h2>
+---
 
-<hr style="margin: 40px 0;">
+<h1 align="center">Felipe Ruiz Terrazas</h1>  
+<h3 align="center">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS · APIs RESTful</h3>
 
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+---
 
-### Sobre
+## Sobre
 
-Sou **desenvolvedor Full Stack** em formação contínua, com experiência prática na criação de aplicações web completas, seguras e escaláveis. Atuo com **PHP orientado a objetos**, **JavaScript moderno**, **HTML5**, **CSS3** e banco de dados **MySQL**, aplicando boas práticas de desenvolvimento desde a estrutura do código até a entrega final.
+Sou **desenvolvedor Full Stack** em constante evolução, com experiência prática no desenvolvimento de aplicações web completas e bem estruturadas. Trabalho com **PHP orientado a objetos**, **JavaScript moderno**, **bancos de dados MySQL** e **interfaces responsivas com HTML e CSS**, sempre priorizando clareza de código, organização por camadas e segurança no backend.
 
-Minha trajetória inclui experiências multidisciplinares em educação e aviação, como **professor de inglês** e **comissário de voo**, áreas nas quais desenvolvi habilidades de liderança, comunicação e resolução de problemas — competências que aplico no desenvolvimento de soluções de software bem estruturadas.
+Minha trajetória profissional inclui passagens como **professor de inglês** e **comissário de voo**, áreas nas quais desenvolvi habilidades interpessoais, de liderança e resolução de problemas. Hoje, essas competências se traduzem em soluções de software eficientes, colaborativas e voltadas para a experiência do usuário.
 
-</div>
+---
 
-<br>
+## Tecnologias e Competências
 
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+- **Linguagens**: PHP, JavaScript (ES6+), HTML5, CSS3, SQL  
+- **Frontend**: Criação de layouts responsivos, manipulação de DOM, eventos e formulários  
+- **Backend**: Controle de sessões, autenticação, rotas internas, segurança e acesso a dados via PDO  
+- **Banco de Dados**: MySQL (consultas otimizadas, modelagem relacional, integridade referencial)  
+- **Ferramentas**: VSCode, Git, GitHub, XAMPP, Hostinger  
+- **Boas Práticas**: Clean Code, separação de responsabilidades, versionamento e organização modular
 
-### Tecnologias e Competências
+---
 
-- **Linguagens:** PHP, JavaScript (ES6+), HTML5, CSS3, SQL  
-- **Frontend:** Layouts responsivos, manipulação de DOM, formulários e eventos  
-- **Backend:** Regras de negócio, sessões, autenticação, rotas e acesso a dados com PDO  
-- **Banco de Dados:** MySQL com consultas otimizadas, relacionamentos e normalização  
-- **Ferramentas:** VSCode, Git, GitHub, XAMPP, Hostinger  
-- **Boas Práticas:** Clean Code, organização por camadas, separação de responsabilidades, controle de versão
+## Projetos em Destaque
 
-</div>
+### Gestão de Corretores Imobiliários  
+Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades incluem:
 
-<br>
+- Autenticação de usuários com controle de sessões
+- Painel administrativo com CRUD completo
+- Navegação protegida por rotas e `.htaccess`
+- Integração entre camadas com organização orientada a objetos
 
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+### Sistema de Orçamentos  
+Aplicação para geração e gerenciamento de orçamentos de produtos e serviços:
 
-### Projetos em Destaque
+- Estrutura baseada em entidades: Orçamento, Itens e Tipos
+- Cálculo dinâmico de totais, descontos e taxas
+- Integração entre backend PHP e frontend com JavaScript
+- Armazenamento e manipulação em banco de dados relacional
 
-#### Gestão de Corretores Imobiliários  
-Sistema web completo com autenticação, cadastro e gerenciamento de corretores. Utiliza PHP orientado a objetos, JavaScript para dinamismo e MySQL para persistência. Inclui rotas controladas via `.htaccess` e interface administrativa.
+---
 
-#### Sistema de Orçamentos  
-Plataforma de geração de orçamentos com estrutura modular (Orçamento, Itens, Tipos de Cobrança), cálculo automático de totais e descontos, integração frontend-backend em PHP e banco relacional com MySQL.
+## Em Desenvolvimento
 
-</div>
-
-<br>
-
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-
-### Em Desenvolvimento
-
-- **Padrões de Projeto e Testes Automatizados**  
-  Aplicação de padrões como Factory, Strategy e Repository, com foco em modularização e testes unitários em PHP para validação de regras.
+- **Design Patterns e Testes Automatizados**  
+  Implementação prática dos padrões Factory, Strategy e Repository, com foco na estruturação modular e reutilizável de código. Desenvolvimento de testes unitários em PHP para validação de regras de negócio.
 
 - **Arquitetura Limpa e Domain-Driven Design (DDD)**  
-  Implementação de projetos seguindo princípios de Arquitetura Limpa, com separação de camadas e modelagem rica do domínio com uso de entidades, agregados e serviços de domínio.
+  Aplicação dos princípios da Arquitetura Limpa, com separação de camadas e baixo acoplamento. Aprofundamento em DDD, com foco na modelagem fiel ao domínio, utilizando entidades ricas, agregados e serviços de domínio.
 
 - **Integração Frontend ↔ Backend com APIs RESTful**  
-  Construção de APIs RESTful seguras e organizadas, com manipulação de requisições e respostas em JSON e integração fluida com o frontend.
+  Construção e consumo de APIs RESTful, utilizando JSON, autenticação e integração fluida com JavaScript moderno. Ênfase na organização da comunicação entre as camadas da aplicação.
 
-- **Otimização e Escalabilidade de Sistemas Web**  
-  Refatoração de aplicações PHP com foco em desempenho, segurança e manutenibilidade, alinhada aos princípios de design de software.
+- **Otimização e Escalabilidade de Aplicações Web**  
+  Aplicação de boas práticas de desenvolvimento visando desempenho, segurança e manutenção. Refatoração contínua orientada a princípios como responsabilidade única, DRY e KISS.
 
-</div>
+---
 
-<br>
+## Contato
 
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+| Plataforma   | Link                                                                 |
+|--------------|----------------------------------------------------------------------|
+| LinkedIn     | [Felipe Ruiz Terrazas](https://www.linkedin.com/in/felipe-ruiz-terrazas) |
+| E-mail       | feliperterrazas@gmail.com                                            |
+| Portfólio    | Em desenvolvimento                                                   |
 
-### Contato
+---
 
-<table>
-<tr><td><strong>LinkedIn:</strong></td><td><a href="https://www.linkedin.com/in/felipe-ruiz-terrazas">linkedin.com/in/felipe-ruiz-terrazas</a></td></tr>
-<tr><td><strong>E-mail:</strong></td><td>feliperterrazas@gmail.com</td></tr>
-<tr><td><strong>Portfólio:</strong></td><td>Em desenvolvimento</td></tr>
-</table>
-
-</div>
-
-<br>
-
-<div style="padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-
-### GitHub Insights
+## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=default" alt="Estatísticas GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact" alt="Linguagens Mais Usadas" />
 </p>
 
-</div>
+---
