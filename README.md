@@ -72,10 +72,9 @@ Aplicação para geração e gerenciamento de orçamentos de produtos e serviço
 
 ## GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=default" alt="Estatísticas GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact" alt="Linguagens Mais Usadas" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</div>
 
 ---
