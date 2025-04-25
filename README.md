@@ -58,8 +58,8 @@ Solução para orçamentos de produtos e serviços com:
 
 | Plataforma   | Link                                                                 |
 |--------------|----------------------------------------------------------------------|
-| LinkedIn     | [linkedin.com/in/felipertuiz](https://www.linkedin.com/in/felipertuiz) |
-| E-mail       | felipertuiz@gmail.com                                                |
+| LinkedIn     | [Felipe Ruiz Terrazas](https://www.linkedin.com/in/felipe-ruiz-terrazas)|
+| E-mail       | feliperterrazas@gmail.com                                            |
 | Portfólio    | *Em desenvolvimento*                                                 |
 
 ---
