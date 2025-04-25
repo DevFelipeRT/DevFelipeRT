@@ -49,19 +49,19 @@ Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, 
 
 ---
 
-## Em Desenvolvimento
+## Tecnologias e Conceitos em Evolução
 
 - **Design Patterns e Testes Automatizados**  
-  Implementação prática dos padrões Factory, Strategy e Repository, com foco na estruturação modular e reutilizável de código. Desenvolvimento de testes unitários em PHP para validação de regras de negócio.
+  Estudo contínuo dos padrões de projeto mais aplicados em sistemas PHP, como **Factory**, **Strategy** e **Repository**, com foco na organização de código e reutilização de componentes. Prática de **testes unitários** para garantir o funcionamento das regras de negócio e aumentar a confiabilidade das aplicações.
 
 - **Arquitetura Limpa e Domain-Driven Design (DDD)**  
-  Aplicação dos princípios da Arquitetura Limpa, com separação de camadas e baixo acoplamento. Aprofundamento em DDD, com foco na modelagem fiel ao domínio, utilizando entidades ricas, agregados e serviços de domínio.
+  Aprofundamento nos princípios da **Arquitetura Limpa**, com ênfase na separação de camadas, baixo acoplamento e legibilidade estrutural. Estudo introdutório de **DDD**, com foco na modelagem de sistemas centrados no domínio, uso de entidades, serviços de domínio e agregados.
 
 - **Integração Frontend ↔ Backend com APIs RESTful**  
-  Construção e consumo de APIs RESTful, utilizando JSON, autenticação e integração fluida com JavaScript moderno. Ênfase na organização da comunicação entre as camadas da aplicação.
+  Desenvolvimento de aplicações com comunicação entre frontend em JavaScript e backend em PHP por meio de **APIs RESTful**. Ênfase em rotas bem definidas, envio estruturado de dados em JSON e autenticação básica.
 
-- **Otimização e Escalabilidade de Aplicações Web**  
-  Aplicação de boas práticas de desenvolvimento visando desempenho, segurança e manutenção. Refatoração contínua orientada a princípios como responsabilidade única, DRY e KISS.
+- **Melhoria de Código e Escalabilidade**  
+  Exploração de boas práticas para refatoração, legibilidade e desempenho de sistemas. Aplicação de princípios como **responsabilidade única**, **DRY (Don't Repeat Yourself)** e **KISS (Keep It Simple)** para facilitar a manutenção e expansão das aplicações.
 
 ---
 
