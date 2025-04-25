@@ -71,7 +71,7 @@ Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, 
 
 ## Contato
 
-<div align="center">
+<div>
   <table border="0">
     <tr>
       <th style="text-align: left; padding-right: 20px;">Plataforma</th>
