@@ -37,10 +37,11 @@ Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades inclu
 - Painel administrativo com CRUD completo  
 - Navegação protegida por rotas e `.htaccess`  
 - Integração entre camadas com organização orientada a objetos  
-- Integração entre backend PHP e frontend com JavaScript  
-  <a href="https://github.com/DevFelipeRT/realtor-manager-system" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
-  </a>
+- Integração entre backend PHP e frontend com JavaScript
+  
+<a href="https://github.com/DevFelipeRT/realtor-manager-system" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
+</a>
 
 ### Sistema de Orçamentos *(em desenvolvimento)*  
 Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, com foco em flexibilidade de composição e clareza de apresentação dos dados.
