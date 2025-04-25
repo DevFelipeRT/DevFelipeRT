@@ -3,9 +3,9 @@
 <h1 align="center">Felipe Ruiz Terrazas</h1>  
 <h3 align="center">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css&theme=dark&perline=5" alt="Ícones das Tecnologias" />
-  </a>
+  </p>
 </p>
 
 ---
