@@ -31,6 +31,18 @@ Minha trajetória profissional inclui passagens como **professor de inglês** e 
 
 ## Projetos em Destaque
 
+### Sistema de Orçamentos *(em desenvolvimento)*  
+Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, com foco em flexibilidade de composição e clareza de apresentação dos dados.
+
+- Estrutura fundamentada em entidades como **Orçamento**, **Item** e **Tipo**, permitindo categorização e controle detalhado de produtos e serviços
+- **Cálculo automatizado** de totais, aplicação de descontos, taxas adicionais e diferentes tipos de cobrança
+- **Persistência e manipulação de dados** em banco de dados relacional, com consultas otimizadas e integridade referencial
+- Funcionalidade para **exportação de orçamentos** em múltiplos formatos de arquivo, facilitando o compartilhamento e arquivamento de propostas comerciais
+
+<a href="https://github.com/DevFelipeRT/quotation-system" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
+</a>
+
 ### [Gestão de Corretores Imobiliários](https://realtor.devfelipert.com.br/)  
 Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades incluem:
 
@@ -42,14 +54,6 @@ Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades inclu
 <a href="https://github.com/DevFelipeRT/realtor-manager-system" target="_blank">
   <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
 </a>
-
-### Sistema de Orçamentos *(em desenvolvimento)*  
-Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, com foco em flexibilidade de composição e clareza de apresentação dos dados.
-
-- Estrutura fundamentada em entidades como **Orçamento**, **Item** e **Tipo**, permitindo categorização e controle detalhado de produtos e serviços
-- **Cálculo automatizado** de totais, aplicação de descontos, taxas adicionais e diferentes tipos de cobrança
-- **Persistência e manipulação de dados** em banco de dados relacional, com consultas otimizadas e integridade referencial
-- Funcionalidade para **exportação de orçamentos** em múltiplos formatos de arquivo, facilitando o compartilhamento e arquivamento de propostas comerciais
 
 ---
 
