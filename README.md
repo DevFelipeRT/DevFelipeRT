@@ -96,8 +96,6 @@ Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades inclu
   </table>
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipe-ruiz-terrazas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-ruiz-terrazas?trk=profile-badge">Felipe Ruiz Terrazas</a></div>
-
 ---
 
 ## GitHub Insights
