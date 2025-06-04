@@ -90,12 +90,14 @@ Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades inclu
       <td>feliperterrazas@gmail.com</td>
     </tr>
     <tr>
-      <td>Portfólio</td>
-      <td>Em desenvolvimento</td>
+      <td>Currículo</td>
+      <td><a href="https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view?usp=drive_link" target="_blank">Felipe Ruiz Terrazas</a></td>
     </tr>
   </table>
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipe-ruiz-terrazas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-ruiz-terrazas?trk=profile-badge">Felipe Ruiz Terrazas</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ---
 
 ## GitHub Insights
