@@ -55,6 +55,15 @@ Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades inclu
   <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
 </a>
 
+### Plataforma EAD – Dwell Training Center
+Ambiente digital de ensino a distância utilizando Moodle e serviços Google.
+
+- Interfaces personalizadas com JavaScript, HTML e CSS
+- Responsividade e otimização para visualizações desktop e mobile
+- Integração com Google Drive e Google Meet.
+
+ <a href="ead.dwelltrainingcenter.com.br" target="_blank">ead.dwelltrainingcenter.com.br</a>
+
 ---
 
 ## Tecnologias e Conceitos em Evolução
