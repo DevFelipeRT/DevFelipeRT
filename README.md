@@ -1,7 +1,8 @@
 ---
 
 <h1 align="center">Felipe Ruiz Terrazas</h1>  
-<h3 align="center">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS · Bootstrap · Laravel</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">PHP · JavaScript · MySQL · HTML · CSS · Bootstrap · Laravel</h3>
 <p align="center">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,bootstrap,laravel&theme=dark&perline=7" alt="Ícones das Tecnologias"/>
