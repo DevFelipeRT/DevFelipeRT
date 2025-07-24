@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS</h3>
 <p align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css&theme=dark&perline=5" alt="Ícones das Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,bootstrap&theme=dark&perline=5" alt="Ícones das Tecnologias"/>
   </p>
 </p>
 
@@ -12,20 +12,20 @@
 
 ## Sobre
 
-Sou **desenvolvedor Full Stack** em constante evolução, com experiência prática no desenvolvimento de aplicações web completas e bem estruturadas. Trabalho com **PHP orientado a objetos**, **JavaScript moderno**, **bancos de dados MySQL** e **interfaces responsivas com HTML e CSS**, sempre priorizando clareza de código, organização por camadas e segurança no backend.
+Sou **desenvolvedor Full Stack** em constante evolução, com experiência prática no desenvolvimento de aplicações web completas e bem estruturadas. Trabalho com **PHP orientado a objetos**, **bancos de dados MySQL e MariaDB** e crio interfaces responsivas com **JavaScript**. **HTML**, **CSS** e **Bootstrap**, sempre priorizando clareza de código, performance e segurança no back-end.
 
-Minha trajetória profissional inclui passagens como **professor de inglês** e **comissário de voo**, áreas nas quais desenvolvi habilidades interpessoais, de liderança e resolução de problemas. Hoje, essas competências se traduzem em soluções de software eficientes, colaborativas e voltadas para a experiência do usuário.
+Minha trajetória profissional inclui experiência como **professor de inglês** e **comissário de voo**, áreas nas quais desenvolvi habilidades interpessoais, de liderança e resolução de problemas. Hoje, essas competências se traduzem em soluções de software eficientes, colaborativas e voltadas para a experiência do usuário.
 
 ---
 
 ## Tecnologias e Competências
 
-- **Linguagens**: PHP, JavaScript (ES6+), HTML5, CSS3, SQL  
-- **Frontend**: Criação de layouts responsivos, manipulação de DOM, eventos e formulários  
-- **Backend**: Controle de sessões, autenticação, rotas internas, segurança e acesso a dados via PDO  
-- **Banco de Dados**: MySQL (consultas otimizadas, modelagem relacional, integridade referencial)  
-- **Ferramentas**: VSCode, Git, GitHub, XAMPP, Hostinger  
-- **Boas Práticas**: Clean Code, separação de responsabilidades, versionamento e organização modular
+- **Linguagens**: PHP 8, JavaScript (ES6+), HTML5, CSS3 e SQL.
+- **Front-end**: Criação de interfaces responsivas, manipulação de DOM, eventos e formulários.
+- **Back-end**: Controle de sessões, autenticação, rotas internas, tratamento de erros, logging, segurança e acesso a dados via PDO.
+- **Banco de Dados**: MySQL e MariaDB. Consultas otimizadas, modelagem relacional e integridade referencial.
+- **Ferramentas**: VS Code, versionamento Git, Apache HTTP Server (XAMPP), cPanel, phpMyAdmin e hospedagem compatilhada (Hostinger).
+- **Boas Práticas**: Clean Code, Clean Architecture, Domain-Driven Design e Design Patterns.
 
 ---
 
