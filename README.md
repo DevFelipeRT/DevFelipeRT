@@ -1,10 +1,10 @@
 ---
 
 <h1 align="center">Felipe Ruiz Terrazas</h1>  
-<h3 align="center">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS</h3>
+<h3 align="center">Desenvolvedor Full Stack | PHP · JavaScript · MySQL · HTML · CSS · Bootstrap · Laravel</h3>
 <p align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,bootstrap&theme=dark&perline=6" alt="Ícones das Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,bootstrap,laravel&theme=dark&perline=7" alt="Ícones das Tecnologias"/>
   </p>
 </p>
 
@@ -21,6 +21,7 @@ Minha trajetória profissional inclui experiência como **professor de inglês**
 ## Tecnologias e Competências
 
 - **Linguagens**: PHP 8, JavaScript (ES6+), HTML5, CSS3 e SQL.
+- **Frameworks**: Laravel e Bootstrap.
 - **Front-end**: Criação de interfaces responsivas, manipulação de DOM, eventos e formulários.
 - **Back-end**: Controle de sessões, autenticação, rotas internas, tratamento de erros, logging, segurança e acesso a dados via PDO.
 - **Banco de Dados**: MySQL e MariaDB. Consultas otimizadas, modelagem relacional e integridade referencial.
