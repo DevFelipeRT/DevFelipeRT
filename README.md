@@ -35,11 +35,11 @@
 
 I am a **Full Stack Developer** focused on **backend and software architecture**, with an emphasis on domain clarity and structural technical decisions.
 
-I hold a **Technology degree (Tecnólogo) in Systems Analysis and Development** and I am currently pursuing a **Bachelor’s degree in Software Engineering**. Over the last ~2 years, I’ve been consistently building web applications with PHP/Laravel and React — across formal academic projects, personal initiatives and work with real users.
+I hold a **Technology degree in Systems Analysis and Development** and I am currently pursuing a **Bachelor’s degree in Software Engineering**. I started building web applications in 2020 and since then have been working mainly with **PHP 8.4 / Laravel 12**, **MySQL** and **React + TypeScript**.
 
-Recently, I’ve delivered two **real-world oriented MVPs** that started as academic projects: an attendance and mentorship system for an education team, and a daily well-being tracking app with dashboards and a public demo mode. The attendance system was adopted by the partner school and is now evolving in a private codebase, giving me practical experience with continuity, maintenance and software in production.
+In an education institution I worked as a Web Developer, deploying and customizing a Moodle-based remote learning platform and building custom web interfaces to support teachers and students. Later, as part of my studies, I built two **real-world oriented MVPs**: an attendance and mentorship system for an education team and a daily well-being tracking app with dashboards and a public demo mode. The attendance and mentorship system was adopted by the same school and I now maintain and evolve it in a private codebase, which gives me hands-on experience with continuity, maintenance and software in production.
 
-I work mainly with **PHP 8.4 / Laravel 12** and **MySQL** on the backend, and **React + TypeScript** with **Tailwind CSS** on the frontend. I also have experience with **Next.js** and **C#/.NET 9** with **SQL Server** for backend services. On the backend, I build **REST APIs**, apply **CQRS and domain events** in specific scenarios, and organize systems as **modular monoliths**, inspired by **Domain-Driven Design (DDD)** and **Clean Architecture**. I use **Git** and **Docker** in my daily workflow and apply **SOLID**, **Object Calisthenics**, **Design Patterns** and **Clean Code** in a pragmatic way.
+I usually design backends as **RESTful modular monoliths**, occasionally using **CQRS** and **domain events**, and draw on **DDD/Clean Architecture** ideas. In my day-to-day work I rely on **Git**, **Docker** and pragmatic use of **SOLID**, **Design Patterns** and **Clean Code**.
 
 ---
 
