@@ -35,11 +35,11 @@
 
 I am a **Full Stack Developer** focused on **backend and software architecture**, especially on understanding the domain and making clear technical decisions.
 
-I hold a **Technology degree in Systems Analysis and Development** and I am currently pursuing a **Bachelor’s degree in Software Engineering**. I had my first professional experience as a Web Developer in 2020–2021 at an education institution, working with a Moodle-based remote learning platform and custom web interfaces. Since then, I’ve been studying and building web applications mainly with **PHP 8.4 / Laravel 12**, **MySQL** and **React + TypeScript**, through academic projects, personal initiatives and collaborations.
+I hold a **Technology degree in Systems Analysis and Development** and I am currently pursuing a **Bachelor’s degree in Software Engineering**. My first professional experience as a Web Developer was in 2020–2021 at an education institution, where I worked on a Moodle-based remote learning platform and custom web interfaces to support teachers and students.
 
-As part of my studies, I built two **real-world oriented MVPs**: an attendance and mentorship system for an education team and a daily well-being tracking app with dashboards and a public demo mode. The attendance and mentorship system, created for the same school, was kept in use beyond the MVP, and I still support its evolution in a private codebase alongside my studies, which gives me practical exposure to continuity, maintenance and software used by real users.
+More recently, I’ve been focusing on **PHP 8.4 / Laravel 12**, **MySQL** and **React + TypeScript**, through academic projects, personal initiatives and collaborations. As part of my studies, I built two **real-world oriented MVPs**: an attendance and mentorship system for an education team and a daily well-being tracking app with dashboards and a public demo mode. The attendance and mentorship system, created for the same school, was kept in use beyond the MVP, and I currently support its evolution in a private codebase alongside my studies, which gives me practical exposure to continuity, maintenance and software used by real users.
 
-I am particularly interested in **backend design and architecture**. In my projects I work with **RESTful APIs** and modular monoliths and experiment with ideas from **Domain-Driven Design (DDD)** and **Clean Architecture**, applying **SOLID**, **Design Patterns** and **clean code** principles in a pragmatic way, using **Git** and **Docker** in my daily workflow.
+I am particularly interested in **backend design and architecture**. In my projects I work with **RESTful APIs** and modular monoliths, and experiment with ideas from **Domain-Driven Design (DDD)** and **Clean Architecture**, applying **SOLID**, **Design Patterns** and clean code principles in a pragmatic way, using **Git** and **Docker** in my daily workflow.
 
 ---
 
