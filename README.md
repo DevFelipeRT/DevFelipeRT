@@ -67,7 +67,7 @@ On the backend, I build **REST APIs**, apply **CQRS and domain events** in speci
 
 ### Attendance & Mentorship MVP
 
-Browser-only Laravel MVP for education teams to manage classroom attendance and 1:1 mentorship workflows.
+Laravel 12 + MySQL MVP for education teams to manage classroom attendance and 1:1 mentorship workflows.
 
 - **Stack:** PHP 8.2+, Laravel 12, MySQL/SQLite, Vite, Tailwind CSS, Alpine.js, PHPUnit  
 - Manage core data: **students**, **teachers/mentors** and **subjects**  
