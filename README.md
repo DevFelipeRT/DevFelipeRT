@@ -63,7 +63,7 @@ On the backend, I build **REST APIs**, apply **CQRS and domain events** in speci
 ### Additional Experience
 
 - **Backend:** C#, .NET 9, SQL Server  
-- **Frontend:** Next.js, HTML, CSS  
+- **Frontend:** Next.js, HTML, CSS, JavaScript
 
 ---
 
