@@ -2,16 +2,31 @@
 <h3 align="center">Full Stack Developer · PHP (Laravel) & React</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=php,laravel,mysql,cs,dotnet,js,ts,react,nextjs,html,css,tailwind,docker&theme=dark&perline=7"
-    alt="Tech stack icons"
-  />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP 8.4" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" title="Laravel 12" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" title=".NET 9" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" />
 </p>
 
 <p align="center">
-  <a href="mailto:feliperterrazas@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/felipe-ruiz-terrazas" target="_blank">LinkedIn</a> ·
-  <a href="https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view" target="_blank">Resume (PT-BR)</a>
+  <a href="mailto:feliperterrazas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-feliperterrazas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Send me an email" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-ruiz-terrazas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Ruiz%20Terrazas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Felipe Ruiz Terrazas" title="Open my LinkedIn profile" />
+  </a>
+  <a href="https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PT--BR-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume PT-BR" title="Open my resume (PT-BR)" />
+  </a>
 </p>
 
 ---
@@ -67,7 +82,7 @@ On the backend, I build **REST APIs**, apply **CQRS and domain events** in speci
 
 ### Attendance & Mentorship MVP
 
-Laravel 12 + MySQL MVP for education teams to manage classroom attendance and 1:1 mentorship workflows.
+Browser-only Laravel MVP for education teams to manage classroom attendance and 1:1 mentorship workflows.
 
 - **Stack:** PHP 8.2+, Laravel 12, MySQL/SQLite, Vite, Tailwind CSS, Alpine.js, PHPUnit  
 - Manage core data: **students**, **teachers/mentors** and **subjects**  
@@ -98,15 +113,14 @@ Laravel 12 + MySQL MVP for tracking daily well-being with dashboards and a produ
 
 ## Links & Contact
 
-- 💼 LinkedIn: [Felipe Ruiz Terrazas](https://www.linkedin.com/in/felipe-ruiz-terrazas)  
-- ✉️ Email: [feliperterrazas@gmail.com](mailto:feliperterrazas@gmail.com)  
-- 📄 Resume (PT-BR): [Google Drive](https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view)
-
----
-
-## GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact&theme=dark" alt="Top languages" />
+  <a href="mailto:feliperterrazas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-feliperterrazas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Send me an email" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-ruiz-terrazas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Ruiz%20Terrazas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Felipe Ruiz Terrazas" title="Open my LinkedIn profile" />
+  </a>
+  <a href="https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PT--BR-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume PT-BR" title="Open my resume (PT-BR)" />
+  </a>
 </p>
