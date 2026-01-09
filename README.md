@@ -1,125 +1,112 @@
----
+<h1 align="center">Felipe Ruiz Terrazas</h1>
+<h3 align="center">Full Stack Developer · PHP (Laravel) & React</h3>
 
-<h1 align="center">Felipe Ruiz Terrazas</h1>  
-<h3 align="center">Desenvolvedor Full Stack</h3>
-<h3 align="center">PHP · JavaScript · MySQL · HTML · CSS · Bootstrap · Laravel</h3>
 <p align="center">
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,bootstrap,laravel&theme=dark&perline=7" alt="Ícones das Tecnologias"/>
-  </p>
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,mysql,cs,dotnet,js,ts,react,nextjs,html,css,tailwind,docker&theme=dark&perline=7"
+    alt="Tech stack icons"
+  />
+</p>
+
+<p align="center">
+  <a href="mailto:feliperterrazas@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/felipe-ruiz-terrazas" target="_blank">LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view" target="_blank">Resume (PT-BR)</a>
 </p>
 
 ---
 
-## Sobre
+## About
 
-Sou **desenvolvedor Full Stack** em constante evolução, com experiência prática no desenvolvimento de aplicações web completas e bem estruturadas. Trabalho com **PHP orientado a objetos**, **bancos de dados MySQL e MariaDB** e crio interfaces responsivas com **JavaScript**. **HTML**, **CSS** e **Bootstrap**, sempre priorizando clareza de código, performance e segurança no back-end.
+I am a **Full Stack Developer** focused on **backend and software architecture**, with an emphasis on domain clarity and structural technical decisions.
 
-Minha trajetória profissional inclui experiência como **professor de inglês** e **comissário de voo**, áreas nas quais desenvolvi habilidades interpessoais, de liderança e resolução de problemas. Hoje, essas competências se traduzem em soluções de software eficientes, colaborativas e voltadas para a experiência do usuário.
+Recently, I’ve been building and evolving **real-world MVPs**: an attendance and mentorship system for education teams, and a daily well-being tracking app with dashboards and a public demo mode. These projects give me hands-on experience with continuity, maintenance and the impact of software in production.
 
----
+I work mainly with **PHP 8.4 / Laravel 12** and **MySQL** on the backend, and **React + TypeScript** with **Tailwind CSS** on the frontend. I also have experience with **Next.js** and **C#/.NET 9** with **SQL Server** for backend services.
 
-## Tecnologias e Competências
-
-- **Linguagens**: PHP 8, JavaScript (ES6+), HTML5, CSS3 e SQL.
-- **Frameworks**: Laravel e Bootstrap.
-- **Front-end**: Criação de interfaces responsivas, manipulação de DOM, eventos e formulários.
-- **Back-end**: Controle de sessões, autenticação, rotas internas, tratamento de erros, logging, segurança e acesso a dados via PDO.
-- **Banco de Dados**: MySQL e MariaDB. Consultas otimizadas, modelagem relacional e integridade referencial.
-- **Ferramentas**: VS Code, versionamento Git, Apache HTTP Server (XAMPP), cPanel, phpMyAdmin e hospedagem compatilhada (Hostinger).
-- **Boas Práticas**: Clean Code, Clean Architecture, Domain-Driven Design e Design Patterns.
+On the backend, I build **REST APIs**, apply **CQRS and domain events** in specific scenarios, and organize systems as **modular monoliths**, inspired by **Domain-Driven Design (DDD)** and **Clean Architecture**. I use **Git** and **Docker** in my daily workflow and apply **SOLID**, **Object Calisthenics**, **Design Patterns** and **Clean Code** in a pragmatic way.
 
 ---
 
-## Projetos em Destaque
+## Now
 
-### Sistema de Orçamentos *(em desenvolvimento)*  
-Aplicação voltada para a geração e gerenciamento de orçamentos comerciais, com foco em flexibilidade de composição e clareza de apresentação dos dados.
-
-- Estrutura fundamentada em entidades como **Orçamento**, **Item** e **Tipo**, permitindo categorização e controle detalhado de produtos e serviços
-- **Cálculo automatizado** de totais, aplicação de descontos, taxas adicionais e diferentes tipos de cobrança
-- **Persistência e manipulação de dados** em banco de dados relacional, com consultas otimizadas e integridade referencial
-- Funcionalidade para **exportação de orçamentos** em múltiplos formatos de arquivo, facilitando o compartilhamento e arquivamento de propostas comerciais
-
-<a href="https://github.com/DevFelipeRT/quotation-system" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
-</a>
-
-### [Gestão de Corretores Imobiliários](https://realtor.devfelipert.com.br/)  
-Sistema completo desenvolvido com PHP, JavaScript e MySQL. Funcionalidades incluem:
-
-- Painel administrativo com CRUD completo  
-- Navegação protegida por rotas e `.htaccess`  
-- Integração entre camadas com organização orientada a objetos  
-- Integração entre backend PHP e frontend com JavaScript
-  
-<a href="https://github.com/DevFelipeRT/realtor-manager-system" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório no GitHub">
-</a>
-
-### [Plataforma EAD – Dwell Training Center](ead.dwelltrainingcenter.com.br) 
-Ambiente digital de ensino a distância utilizando Moodle e serviços Google.
-
-- Interfaces personalizadas com JavaScript, HTML e CSS
-- Responsividade e otimização para visualizações desktop e mobile
-- Integração com Google Drive e Google Meet.
-
- <a href="ead.dwelltrainingcenter.com.br" target="_blank">ead.dwelltrainingcenter.com.br</a>
+- 🔍 Open to **backend or full stack roles** using PHP/Laravel and modern frontend (React/TypeScript)  
+- 🧩 Interested in teams that value **architecture, domain modeling and code quality**  
+- 🚀 Currently studying **microservices**, **system integration** and **cloud patterns** to apply in a **future SaaS product**
 
 ---
 
-## Tecnologias e Conceitos em Evolução
+## Tech Stack
 
-- **Design Patterns e Testes Automatizados**  
-  Estudo contínuo dos padrões de projeto mais aplicados em sistemas PHP, como **Factory**, **Strategy** e **Repository**, com foco na organização de código e reutilização de componentes. Prática de **testes unitários** para garantir o funcionamento das regras de negócio e aumentar a confiabilidade das aplicações.
+### Core
 
-- **Arquitetura Limpa e Domain-Driven Design (DDD)**  
-  Aprofundamento nos princípios da **Arquitetura Limpa**, com ênfase na separação de camadas, baixo acoplamento e legibilidade estrutural. Estudo introdutório de **DDD**, com foco na modelagem de sistemas centrados no domínio, uso de entidades, serviços de domínio e agregados.
+- **Backend:** PHP 8.4, Laravel 12, REST APIs, modular monoliths, CQRS and domain events (specific use cases)  
+- **Database:** MySQL (relational modeling, constraints, migrations)  
+- **Frontend:** React.js, TypeScript, Vite, Tailwind CSS, Alpine.js  
+- **Tooling:** Docker, Git/GitHub, VS Code  
 
-- **Integração Frontend ↔ Backend com APIs RESTful**  
-  Desenvolvimento de aplicações com comunicação entre frontend em JavaScript e backend em PHP por meio de **APIs RESTful**. Ênfase em rotas bem definidas, envio estruturado de dados em JSON e autenticação básica.
+### Additional Experience
 
-- **Melhoria de Código e Escalabilidade**  
-  Exploração de boas práticas para refatoração, legibilidade e desempenho de sistemas. Aplicação de princípios como **responsabilidade única**, **DRY (Don't Repeat Yourself)** e **KISS (Keep It Simple)** para facilitar a manutenção e expansão das aplicações.
-
----
-
-## Contato
-
-<div>
-  <table border="0">
-    <tr>
-      <th style="text-align: left; padding-right: 20px;">Plataforma</th>
-      <th style="text-align: left;">Link</th>
-    </tr>
-    <tr>
-      <td>LinkedIn</td>
-      <td><a href="https://www.linkedin.com/in/felipe-ruiz-terrazas" target="_blank">Felipe Ruiz Terrazas</a></td>
-    </tr>
-    <tr>
-      <td>E-mail</td>
-      <td>feliperterrazas@gmail.com</td>
-    </tr>
-    <tr>
-      <td>Currículo</td>
-      <td><a href="https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view?usp=drive_link" target="_blank">Felipe Ruiz Terrazas</a></td>
-    </tr>
-  </table>
-</div>
+- **Backend:** C#, .NET 9, SQL Server  
+- **Frontend:** Next.js, HTML, CSS  
 
 ---
 
-## GitHub Insights
+## How I Work
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="Estatísticas GitHub">
-    </td>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact&theme=dark" alt="Linguagens Mais Usadas">
-    </td>
-  </tr>
-</table>
+- **Domain first** – start from domain language and business rules to define modules and use cases  
+- **Modular monolith by default** – clear boundaries before considering microservices  
+- **Patterns with a purpose** – CQRS, events and repositories applied only when they solve real problems  
+- **Maintainable code** – readability, clear responsibilities and refactoring paths as part of the workflow  
+- **Professional Git workflow** – branches, focused commits and review-like changes, even when working solo  
+- **Reproducible environments** – Docker for local environments closer to production  
 
 ---
+
+## Highlighted Projects
+
+### Attendance & Mentorship MVP
+
+Browser-only Laravel MVP for education teams to manage classroom attendance and 1:1 mentorship workflows.
+
+- **Stack:** PHP 8.2+, Laravel 12, MySQL/SQLite, Vite, Tailwind CSS, Alpine.js, PHPUnit  
+- Manage core data: **students**, **teachers/mentors** and **subjects**  
+- Create class groups, enroll students, generate lessons and record attendance (including single-student groups)  
+- Manage 1:1 mentorships with scheduled sessions and **credit-based billing**  
+- UI-only system (no public HTTP API), focused on classroom and mentorship operations  
+- Documentation covering **domain**, **architecture**, **local setup**, common tasks and troubleshooting  
+
+🔗 [View repository](https://github.com/DevFelipeRT/attendance)
+
+---
+
+### Well-Being Check-Ins
+
+Laravel 12 + MySQL MVP for tracking daily well-being with dashboards and a production demo mode.
+
+- **Stack:** PHP 8.2+, Laravel 12, MySQL 8, Vite, Tailwind CSS, Alpine.js  
+- Daily check-ins with a **one-per-day rule** and optional notes  
+- Dashboard with **7-day, 30-day and current month** summaries and trends  
+- **Demo mode** that auto-creates a temporary user and seeds sample data so hiring managers can explore without registration  
+- Authentication flows based on **Laravel Breeze**  
+- Docker-oriented setup instructions and documentation for architecture, local setup and common tasks  
+
+🔗 [Live demo](https://wellbeing.ezep.com.br)  
+🔗 [View repository](https://github.com/DevFelipeRT/well-being)
+
+---
+
+## Links & Contact
+
+- 💼 LinkedIn: [Felipe Ruiz Terrazas](https://www.linkedin.com/in/felipe-ruiz-terrazas)  
+- ✉️ Email: [feliperterrazas@gmail.com](mailto:feliperterrazas@gmail.com)  
+- 📄 Resume (PT-BR): [Google Drive](https://drive.google.com/file/d/1AzUOgsiHZCByoEsH6czCZRg6w7__9jv5/view)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevFelipeRT&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipeRT&layout=compact&theme=dark" alt="Top languages" />
+</p>
