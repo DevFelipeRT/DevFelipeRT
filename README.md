@@ -55,15 +55,16 @@ I am particularly interested in **backend design and architecture**. In my proje
 
 ### Core
 
-- **Backend:** PHP 8.4, Laravel 12, REST APIs, modular monoliths, CQRS and domain events (specific use cases)  
-- **Database:** MySQL (relational modeling, constraints, migrations)  
-- **Frontend:** React.js, TypeScript, Vite, Tailwind CSS, Alpine.js  
-- **Tooling:** Docker, Git/GitHub, VS Code  
+- **Backend:** PHP 8.4, Laravel 12, REST APIs, OAuth 2.0, modular monoliths, CQRS and domain events (specific use cases)
+- **Frontend:** React.js, TypeScript, Vite, Tailwind CSS, Alpine.js
+- **Database:** MySQL (relational modeling, constraints, migrations)
+- **Tooling:** Docker, Git/GitHub, VS Code
 
 ### Additional Experience
 
-- **Backend:** C#, .NET 9, SQL Server  
+- **Backend:** C#, .NET 9, ASP.NET Core
 - **Frontend:** Next.js, HTML, CSS, JavaScript
+- **Database:** SQL Server, PostgreSQL
 
 ---
 
