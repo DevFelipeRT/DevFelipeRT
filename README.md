@@ -47,7 +47,7 @@ I am particularly interested in **backend design and architecture**. In my proje
 
 - 🔍 Open to **backend or full stack roles** using PHP/Laravel and modern frontend (React/TypeScript)  
 - 🧩 Interested in teams that value **architecture, domain modeling and code quality**  
-- 🚀 Currently studying **microservices**, **system integration** and **cloud patterns** to apply in a **future SaaS product**
+- 🚀 Currently exploring **microservices**, **system integration** and **cloud patterns** to apply in a **future SaaS product**
 
 ---
 
